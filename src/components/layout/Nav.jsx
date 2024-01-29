@@ -1,4 +1,5 @@
 import React from "react";
+import "../../styles/Nav.css";
 
 const Nav = (props) => {
   return (<ul class="holder">
